@@ -1,4 +1,8 @@
 yq-toolbox
+Debug
+Release
+*~
+*.bck
 
 # Prerequisites
 *.d
