@@ -36,7 +36,7 @@ Release
 *.exe
 *.out
 *.app
-nw
+
 
 # Old stuff (local only)
 .dep
